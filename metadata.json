@@ -1,0 +1,15 @@
+{
+  "name": "BlueCollarOS",
+  "description": "A comprehensive operating system for blue-collar businesses, streamlining field operations, communication, and accountability.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "multi-role-dashboards",
+    "real-time-reporting",
+    "automated-checklists",
+    "white-label-branding"
+  ]
+}
